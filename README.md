@@ -6,7 +6,7 @@ I´m Octavio Martínez
 - 🌱 I’m currently learning https://app.pluralsight.com/paths/skill/aspnet-core on Pluralsight
 - 👯 I’m looking to collaborate on any Open Source project
 - 💬 Ask me about entropy and/or time travel fundamentals
-- 😄 Pronouns: err, what ?
+- 😄 Pronouns: I've got nothing against nouns
 - ⚡ Fun fact: 5% of cats are allergic to humans.
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/octavio-mart%C3%ADnez-garc%C3%ADa-8134b5a7/">LinkedIn</a> 
 
@@ -30,7 +30,7 @@ I´m Octavio Martínez
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Octawer)
-  ----
+
 </details>
 
 ------
