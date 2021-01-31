@@ -4,15 +4,19 @@ I´m Octavio Martínez
 
 - 🔭 I’m currently working as a Freelance .Net Consultant at <a href="https://www.careworks.co.uk/">Careworks / Advanced</a>
 - 🌱 I’m currently learning https://app.pluralsight.com/paths/skill/aspnet-core on Pluralsight
+- 👯 I’m looking to collaborate on any Open Source project
+- 💬 Ask me about whatever I do know, or not, doesn't matter
+- 😄 Pronouns: err, what ?
+- ⚡ Fun fact: 5% of cats are allergic to humans.
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/octavio-mart%C3%ADnez-garc%C3%ADa-8134b5a7/">LinkedIn</a> 
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Octawer)
 
-![](https://img.shields.io/badge/C_Sharp-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Xamarin-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=ruby&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/C_Sharp-informational?style=flat&logo=c&logoColor=white&color=green)
+![](https://img.shields.io/badge/Xamarin-informational?style=flat&logo=xamarin&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=red)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
 
 
 <br>
