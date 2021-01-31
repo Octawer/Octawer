@@ -9,12 +9,11 @@ I´m Octavio Martínez
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Octawer)
 
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/C_Sharp-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Xamarin-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=ruby&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+
 
 <br>
 <details>
